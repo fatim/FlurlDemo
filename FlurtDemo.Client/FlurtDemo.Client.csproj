@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <PackageReference Include="flurl.http" Version="3.2.4" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
     </ItemGroup>
 
 </Project>
