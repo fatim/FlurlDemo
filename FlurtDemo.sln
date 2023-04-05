@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlurtDemo.Client", "FlurtDemo.Client\FlurtDemo.Client.csproj", "{280C0947-4824-4CAB-BBAF-2BB302D291ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlurtDemo.WebApi", "FlurtDemo.WebApi\FlurtDemo.WebApi.csproj", "{D9AA3A12-151C-4D03-85A4-F305196CE23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280C0947-4824-4CAB-BBAF-2BB302D291ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280C0947-4824-4CAB-BBAF-2BB302D291ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280C0947-4824-4CAB-BBAF-2BB302D291ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280C0947-4824-4CAB-BBAF-2BB302D291ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9AA3A12-151C-4D03-85A4-F305196CE23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AA3A12-151C-4D03-85A4-F305196CE23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AA3A12-151C-4D03-85A4-F305196CE23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AA3A12-151C-4D03-85A4-F305196CE23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
